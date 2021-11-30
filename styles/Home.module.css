@@ -114,3 +114,24 @@
     flex-direction: column;
   }
 }
+
+.navBar {
+  display: flex;
+}
+
+.nav {
+  margin: 0 10px;
+}
+
+.navButton {
+  margin: 0 10px;
+  background-color: red;
+}
+
+.navButton:hover {
+  background-color: royalblue;
+}
+
+/* .navLast {
+  margin-left: auto;
+} */
